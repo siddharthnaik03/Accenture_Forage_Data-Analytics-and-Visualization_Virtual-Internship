@@ -12,7 +12,7 @@ Social Buzz has over 100.000 posts per day that can be assumed to have 36.500.00
 
 ### Data Visualization 	
 ##### Insights:
-•	Bar Chart represnts The top 5 categories based on positive sentiments here animal category on top with 1050 counts. 
+•	Bar Chart represnts The top 5 categories based on positive sentiments here animal category on top with 1044 counts. 
 
 •	Line chart represents Post per months May 2021 has the most posts of 2138 counts.
 
